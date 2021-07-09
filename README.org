@@ -1,2 +1,0 @@
-* Fried Piper
-An FPGA implementation of the Pied Piper compression algorithm.
